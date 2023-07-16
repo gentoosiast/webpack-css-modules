@@ -2,7 +2,6 @@
   "compilerOptions": {
     "strict": true,
     "noImplicitAny": true,
-    "noUncheckedIndexedAccess": true,
     "allowSyntheticDefaultImports": true,
     "module": "ES2022",
     "moduleResolution": "bundler",
