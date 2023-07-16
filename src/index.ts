@@ -1,3 +1,4 @@
+import './styles.css';
 import ComponentOne from '@components/component1';
 import ComponentTwo from '@components/component2';
 
